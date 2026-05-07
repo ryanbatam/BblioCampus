@@ -4,7 +4,7 @@
 
     #Fonctionnalités = lister ce que fait BiblioCampus : ajouter un livre, lister les livres, rechercher, emprunter, rendre, afficher les stats.
     
-    #Organisation de l'équipe = préciser qui a fait quoi : BATAMNAOULA Ryan (structure + menu), TAMBATE Abdoul (livres), HOUACHI Kcanneli (emprunts + stats).
+    #Organisation de l'équipe = préciser qui a fait quoi : DEGBESSE Alfred (structure + menu), COMBEY messan (livres),  (emprunts + stats).
 
 
     #Instructions d'installation = git clone <URL> puis cd biblio_campus. Préciser que Python doit être installé.
