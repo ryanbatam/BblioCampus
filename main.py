@@ -4,8 +4,8 @@ if __name__ == "__main__":
     afficher_menu()
 
 print("1. catalogue  des livres ")
-=======
 
-print("1. catalogue  des livres ").
 
-ryan
+print("1. catalogue  des livres ")
+
+print('ryan')
